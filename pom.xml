@@ -6,7 +6,7 @@
     <artifactId>fit</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
- <properties>
+<properties>
   <sonar.organization>rasmiyawafaafit</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
